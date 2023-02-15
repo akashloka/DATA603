@@ -91,6 +91,43 @@ Possibly in need of further information, such as the source of the data (provena
 Visualization is beneficial.
 ready to make a decision
 
+References:
 
+* Chen, M., Mao, S., & Liu, Y. (2014). Big data: A survey. Mobile Networks and Applications, 19(2), 171-209.
+* Mariscal, G., Viveros, J., Ponce, J., & Alvarez, F. (2017). Big data processing: A survey. Journal of Big Data, 4(1), 24.
+* Chen, Y., Mao, S., & Liu, Y. (2015). Big data: A survey of research at the intersection of computer science and economics. ACM Computing Surveys (CSUR), 47(4), 1-36.
 
 4) Challenges in Big Data analysis (discuss each)
+
+Challenge 1: Heterogeneity and Incompleteness
+
+* Algorithms for machine analysis anticipate homogeneous data and are unable to comprehend subtlety or any other kind of minute deviations.
+* More research is needed to effectively represent, access, and analyze semi-structured data.
+* There may still be some incompleteness and inaccuracies in the data even after data cleaning and error repair.
+- During the study of (probabilistic) data, this must be managed.
+
+Challenge 2: Scale
+* Data volume is increasing more quickly than computing capacity.
+- Many predict that data will rise exponentially.
+* Utilizing cloud computing is a viable alternative.
+* Altering the storage subsystem could have an impact on all aspects of data processinge.
+-  hard disk drive vs solid state drive; parallel file system 
+
+Challenge 3: Timeliness
+* The analysis's findings are frequently needed right away in numerous circumstances.
+* Finding items in a huge data set that fit certain requirements is frequently important.
+- Frequently, it is a query/search issue.
+- Based on the characteristics of the dataset, new index structures are required.
+
+Challenge 4: Privacy
+* In the context of Big Data, worry over data privacy has increased.
+- Big data can be used to infer new information based on location, time, and other data aspects.
+* Effectively, managing privacy is a technological and a sociological issue.
+* Data utility via data sharing vs. protecting data privacy
+
+Challenge 5: Human Collaboration
+* Analytics for Big Data should ideally combine both algorithmic and human analysis.
+- Person in the loop
+* A big data analysis system needs to accommodate input from various human experts as well as collaborative results exploration.
+- We must be ready to handle disagreements, doubt, and mistakes caused by crowdsourcing platforms like Wikipedia, Yelp reviews, and Amazon Mechanical Turk.
+
