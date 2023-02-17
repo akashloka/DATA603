@@ -54,43 +54,43 @@ Phase 1 : Data Acquisition and Recording
 
 * Data is produced from numerous sources.
 
-- Telescopes, satellites, social media, scientific computers, and other Internet of Things (IoT) devices.
+ - Telescopes, satellites, social media, scientific computers, and other Internet of Things (IoT) devices.
 
 * A large portion of the data gathered is uninteresting.
-- It can be magnitudes of times filtered and compressed.
-- We must create effective filters that do not omit valuable information.
-- Create the appropriate metadata automatically to define the types of data that are being measured and recorded.
- * Example: Most cameras record the date, time, and location of the photo when we snap one.
+ - It can be magnitudes of times filtered and compressed.
+ - We must create effective filters that do not omit valuable information.
+ - Create the appropriate metadata automatically to define the types of data that are being measured and recorded.
+* Example: Most cameras record the date, time, and location of the photo when we snap one.
  
 Phase 2 : Information Extraction and Cleaning
 * Information extraction
-- Extract the necessary data from the underlying sources and provide it in a structured manner that is appropriate for analysis
+ - Extract the necessary data from the underlying sources and provide it in a structured manner that is appropriate for analysis
 * Data cleaning
-- Try to complete missing values, reduce noise while detecting outliers, and fix data discrepancies.
+ - Try to complete missing values, reduce noise while detecting outliers, and fix data discrepancies.
 
 Phase 3: Data Integration, Aggregation, and Representation
 * Data Integration and Aggregation
-- Combine information from various (heterogeneous) data sources.
-- Can aid in minimizing and avoiding duplications and inconsistencies
+ - Combine information from various (heterogeneous) data sources.
+ - Can aid in minimizing and avoiding duplications and inconsistencies
 
 * Data Representation
-- The same data can be represented in various ways in terms of data representation.
-- Numerous methods of data visualization could be employed for representation, including: Pie chart, Boxplot, Histogram, and Bar chart
+ - The same data can be represented in various ways in terms of data representation.
+ - Numerous methods of data visualization could be employed for representation, including: Pie chart, Boxplot, Histogram, and Bar chart
 
 Phase 4: Query Processing, Data Modeling, and Analysis
 * Basic data subsets can be obtained from the full collection of data using queries.
 * An abstract model known as a data model standardizes how data items relate to one another and organizes data elements.
-- Models for databases, entity relationships, semantic data models, etc.
+ - Models for databases, entity relationships, semantic data models, etc.
 
 * More than just SQL Querying is required for Big Data Analysis.
-- In the SQL database, many data are not stored.
-- It can be difficult to implement certain analysis tasks in SQL queries.
+ - In the SQL database, many data are not stored.
+ - It can be difficult to implement certain analysis tasks in SQL queries.
 
 Phase 5: Interpretation
 * Recognize and validate the output of the computer
-Possibly in need of further information, such as the source of the data (provenance), the methodology used to arrive at each result, and the particular inputs used.
-Visualization is beneficial.
-ready to make a decision
+ - Possibly in need of further information, such as the source of the data (provenance), the methodology used to arrive at each result, and the particular inputs used.
+ - Visualization is beneficial.
+* Ready to make a decision
 
 References:
 
