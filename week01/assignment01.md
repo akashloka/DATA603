@@ -1,4 +1,5 @@
 # DATA603
+## Assignment 1: Big Data Topics Markdown
 ## Campus ID : LB04019
 ### Question 1) Big Data with example and types
 Large, complicated sets of data that are challenging to manage and evaluate using conventional data processing techniques are referred to as "big data." As the internet expanded and digital technologies were used more often, the idea of "big data" began to take shape. This resulted in the production of enormous volumes of data from several sources.
