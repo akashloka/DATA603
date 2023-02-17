@@ -1,6 +1,6 @@
 # DATA603
 ## Campus ID : LB04019
-### 1) Big Data with example and types
+### Question 1) Big Data with example and types
 Large, complicated sets of data that are challenging to manage and evaluate using conventional data processing techniques are referred to as "big data." As the internet expanded and digital technologies were used more often, the idea of "big data" began to take shape. This resulted in the production of enormous volumes of data from several sources.
 
 Examples of big data include:
@@ -25,7 +25,7 @@ i) "What is Big Data?". IBM. https://www.ibm.com/analytics/hadoop/big-data-analy
 
 ii) "Types of Big Data: Structured, Semi-Structured and Unstructured Data". Simplilearn. https://www.simplilearn.com/types-of-big-data-article
 
-### 2) 6 ‘V’s of Big Data (define each)
+### Question 2) 6 ‘V’s of Big Data (define each)
 
 Volume, Velocity, Variety, Veracity, Value, and Visualization are the six Vs of big data. These traits are used to describe the potential and difficulties that huge and complex data collections bring.
 
@@ -47,7 +47,7 @@ i) Mayer-Schönberger, V., & Cukier, K. (2013). Big data: A revolution that will
 
 ii) Manyika, J., Chui, M., Brown, B., Bughin, J., Dobbs, R., Roxburgh, C., & Byers, A. H. (2011). Big data: The next frontier for innovation, competition, and productivity. McKinsey Global Institute.
 
-### 3) Phases of Big Data analysis (discuss each)
+### Question 3) Phases of Big Data analysis (discuss each)
 
 Phase 1 : Data Acquisition and Recording
 
@@ -97,7 +97,7 @@ References:
 * Mariscal, G., Viveros, J., Ponce, J., & Alvarez, F. (2017). Big data processing: A survey. Journal of Big Data, 4(1), 24.
 * Chen, Y., Mao, S., & Liu, Y. (2015). Big data: A survey of research at the intersection of computer science and economics. ACM Computing Surveys (CSUR), 47(4), 1-36.
 
-### 4) Challenges in Big Data analysis (discuss each)
+### Question 4) Challenges in Big Data analysis (discuss each)
 
 Challenge 1: Heterogeneity and Incompleteness
 
