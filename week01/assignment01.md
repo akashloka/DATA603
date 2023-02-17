@@ -131,3 +131,8 @@ Challenge 5: Human Collaboration
 * A big data analysis system needs to accommodate input from various human experts as well as collaborative results exploration.
 - We must be ready to handle disagreements, doubt, and mistakes caused by crowdsourcing platforms like Wikipedia, Yelp reviews, and Amazon Mechanical Turk.
 
+References:
+
+Kaisler, S., Armour, F., Espinosa, J. A., & Money, W. (2013). Big data: Issues and challenges moving forward. In Proceedings of the 46th Hawaii International Conference on System Sciences.
+Mishra, A., & Mishra, D. (2016). A survey of big data analytics: Challenges, open research issues, and tools. Journal of Big Data, 3(1), 20.
+Hassan, S. U., & Khan, S. U. (2018). Challenges and opportunities in big data. Journal of Big Data, 5(1), 1-22.
