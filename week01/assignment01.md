@@ -20,7 +20,7 @@ ii) Unstructured Data : Unstructured data is difficult to process because it is 
 
 iii) Semi-structured Data : Data that is partially structured combines both structured and unstructured data. Email messages, log files, and XML data are a few examples of semi-structured data.
 
-Sources :
+References :
 
 i) "What is Big Data?". IBM. https://www.ibm.com/analytics/hadoop/big-data-analytics
 
